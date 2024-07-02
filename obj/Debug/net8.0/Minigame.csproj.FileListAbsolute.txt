@@ -1,0 +1,238 @@
+F:\Document\DEV\C#\Minigame\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\1\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\1\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\1\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\1\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\1\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\1\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\1\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\1\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\1\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\1\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\1\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\1\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\1\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\1\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\2\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\2\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\2\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\2\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\2\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\2\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\2\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\2\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\2\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\2\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\2\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\2\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\2\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\2\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\3 étoile+\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\3 étoile+\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\3 étoile+\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\3 étoile+\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\3 étoile+\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\3 étoile+\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\3 étoile+\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\3 étoile+\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\3 étoile+\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\3 étoile+\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\3 étoile+\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\3 étoile+\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\3 étoile+\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\3 étoile+\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\4 color\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\4 color\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\4 color\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\4 color\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\4 color\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\4 color\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\4 color\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\4 color\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\4 color\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\4 color\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\4 color\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\4 color\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\4 color\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\4 color\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\5\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\5\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\5\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\5\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\5\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\5\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\5\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\5\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\5\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\5\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\5\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\5\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\5\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\5\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\6\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\6\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\6\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\6\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\6\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\6\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\6\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\6\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\6\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\6\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\6\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\6\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\6\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\6\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\7\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\7\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\7\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\7\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\7\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\7\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\7\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\7\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\7\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\7\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\7\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\7\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\7\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\7\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\8\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\8\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\8\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\8\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\8\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\8\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\8\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\8\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\8\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\8\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\8\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\8\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\8\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\8\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\9 no gameover when enemis touch down\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\10 collision bug corr\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\11\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\11\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\11\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\11\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\11\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\11\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\11\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\11\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\11\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\11\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\11\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\11\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\11\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\11\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\12\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\12\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\12\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\12\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\12\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\12\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\12\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\12\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\12\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\12\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\12\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\12\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\12\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\12\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\12 vaisseau string 3char\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\13\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\13\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\13\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\13\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\13\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\13\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\13\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\13\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\13\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\13\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\13\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\13\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\13\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\13\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\14 non spawn first and last col\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\solarStrike\15 enemy ship 3char\obj\Debug\net8.0\ref\Minigame.dll
