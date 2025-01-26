@@ -371,9 +371,10 @@ namespace SpaceInvaderConsoleGame
             }
 
             /*
-               Changer l'intervalle de tir : Vous pouvez augmenter ou diminuer enemyShootInterval pour que les ennemis tirent plus ou moins souvent.
-               Changer la probabilité de tir : Vous pouvez modifier random.Next(10) == 0 pour ajuster la probabilité que chaque ennemi tire.
-               Par exemple, random.Next(5) == 0 donne une probabilité de 20%, tandis que random.Next(20) == 0 donne une probabilité de 5%.
+               Change the shooting interval: You can increase or decrease enemyShootInterval to make enemies shoot more or less often.
+               Change shot probability: You can change random.Next(10) == 0 to adjust the probability of each enemy shooting.
+               For example, random.Next(5) == 0 gives a probability of 20%, while random.Next(20) == 0 gives a probability of 5%.
+
             */
 
             // Enemies shooting
